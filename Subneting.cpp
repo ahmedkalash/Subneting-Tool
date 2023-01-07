@@ -512,7 +512,7 @@ int main()
 // Calling the interface, initialising row_ip , way , number.
     interface(row_ip,way,number);
 
-// Instancing object from IP Class.
+// Instantiating object from IP Class.
     IP my_ip = row_ip;
 
     if(my_ip.findClass() == 'C' )
