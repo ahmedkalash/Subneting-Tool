@@ -1,8 +1,12 @@
 # Subneting-Tool
 A tool that Compute the subneting
 
-I made this tool at the fist term of my 2nd year of the college before even studying problem-solving techniques and design patterns. So the code may not seem to be clean, and It may contain some mistaks.
+During the first term of my second year of college, I developed a Subnet Calculator Tool to practice my programming skills and connect different areas of knowledge together. The tool is designed to compute subnetting, allowing users to quickly and easily calculate network addresses, broadcast addresses, and subnet masks.
 
-I Did not made a full teasting to this tool.
+While I did not have formal training in problem-solving techniques and design patterns at the time of creating the tool, I utilized my knowledge of the c++ programming language and my understanding of networking to create a working tool. 
 
-It was just for practicing my programing knowledge and connecting different knowledge together.
+It's important to note that due to the project being a learning exercise, the code may not be optimized, and there may be some mistakes. Additionally, I did not conduct full testing on the tool, as it was not intended for commercial use.
+
+Despite these limitations, creating the Subnet Calculator Tool allowed me to gain valuable experience in programming and networking. It also demonstrated my ability to apply theoretical knowledge to practical projects and to continuously learn and improve my skills.
+
+Overall, the Subnet Calculator Tool is an excellent example of my programming capabilities and my passion for exploring new technologies and learning through hands-on experience.
